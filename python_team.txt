@@ -2,4 +2,4 @@ team: Python
 
 manager: Lee
 
-members: yang
+members: Chae
