@@ -1,9 +1,5 @@
 team: JS
 
-<<<<<<< HEAD
 manager: Lee
-=======
-manager: Choi
->>>>>>> conflict1
 
 members: Mi
